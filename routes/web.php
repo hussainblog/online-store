@@ -18,3 +18,5 @@ use App\Http\Controllers\LoginController;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('Logincontroller');
